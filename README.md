@@ -4,9 +4,39 @@
 I'm a self-taught professional, with a passion for technology, always ready to learn more and develop new projects
 
 ## Work
-I currently work for <br><br>
-[<img align="center" src="https://static.wixstatic.com/media/1eaf3f_aa4a2be70de344caafeb1f455202962f~mv2.png/v1/fill/w_188,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Branco%20-%202290x341.png">](https://www.saipher.com.br/)<br><br>
-[<img align="center" height="40px" src="https://testlio.com/wp-content/uploads/testlio-logo-blue.png">](https://testlio.com/b/)
+Currently working for <br><br>
+
+<table>
+<tr>
+  <td width="50%" align="center">
+    <a href ="https://www.saipher.com.br/">
+      <img align="center" src="https://lwfiles.mycourse.app/saipher-public/97bfd4201b5382a584126e5aaa1abe15.png">
+    </a>
+  </td>
+  <td width="50%" align="center">
+    <a href ="https://testlio.com/b/">
+      <img align="center" src="https://testlio.com/wp-content/uploads/testlio-logo-blue.png">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <h3>
+      <strong>
+        Software Tester
+      </strong>
+    </h3>
+  </td>
+  <td align="center">
+    <h3>
+      <strong>
+        Software Test Lead and Tester
+      </strong>
+    </h3>
+  </td>
+</tr>
+
+</table>
 
 ## Tools
 I mostly work with manual testing, but on the occasional need, I use these to help me out!
