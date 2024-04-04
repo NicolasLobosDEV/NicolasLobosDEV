@@ -35,14 +35,14 @@ I'm a self-taught professional, with a passion for technology, always ready to l
   <td align="center">
     <h3>
       <strong>
-        Software Tester
+        Software Test Lead and Tester
       </strong>
     </h3>
   </td>
   <td align="center">
     <h3>
       <strong>
-        Software Test Lead and Tester
+        Software Tester
       </strong>
     </h3>
   </td>
