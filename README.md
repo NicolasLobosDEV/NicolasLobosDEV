@@ -3,9 +3,7 @@
 ## About me
 I'm a self-taught professional, with a passion for technology, always ready to learn more and develop new projects
 
-## Work
-Currently working for <br><br>
-
+## Currently working for
 <table>
 <tr>
   <td width="20%" align="center">
