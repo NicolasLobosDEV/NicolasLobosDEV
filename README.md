@@ -8,18 +8,32 @@ Currently working for <br><br>
 
 <table>
 <tr>
-  <td width="50%" align="center">
-    <a href ="https://www.saipher.com.br/">
-      <img align="center" src="https://lwfiles.mycourse.app/saipher-public/97bfd4201b5382a584126e5aaa1abe15.png">
-    </a>
+  <td width="20%" align="center">
+    <h3>
+      <strong>
+        Company
+      </strong>
+    </h3>
   </td>
-  <td width="50%" align="center">
+  <td width="40%" align="center">
     <a href ="https://testlio.com/b/">
       <img align="center" src="https://testlio.com/wp-content/uploads/testlio-logo-blue.png">
     </a>
   </td>
+  <td width="40%" align="center">
+    <a href ="https://www.saipher.com.br/">
+      <img align="center" src="https://lwfiles.mycourse.app/saipher-public/97bfd4201b5382a584126e5aaa1abe15.png">
+    </a>
+  </td>
 </tr>
 <tr>
+  <td align="center">
+    <h3>
+      <strong>
+        Role
+      </strong>
+    </h3>
+  </td>
   <td align="center">
     <h3>
       <strong>
