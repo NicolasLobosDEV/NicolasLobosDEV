@@ -3,52 +3,7 @@
 ## About me
 I'm a self-taught professional, with a passion for technology, always ready to learn more and develop new projects
 
-## Currently working for
-<table>
-<tr>
-  <td width="15%" align="center">
-    <h3>
-      <strong>
-        Company
-      </strong>
-    </h3>
-  </td>
-  <td width="42.5%" align="center">
-    <a href ="https://testlio.com/b/">
-      <img align="center" src="https://testlio.com/wp-content/uploads/testlio-logo-blue.png">
-    </a>
-  </td>
-  <td width="42.5%" align="center">
-    <a href ="https://www.saipher.com.br/">
-      <img align="center" src="https://lwfiles.mycourse.app/saipher-public/97bfd4201b5382a584126e5aaa1abe15.png">
-    </a>
-  </td>
-</tr>
-<tr>
-  <td align="center">
-    <h3>
-      <strong>
-        Role
-      </strong>
-    </h3>
-  </td>
-  <td align="center">
-    <h3>
-      <strong>
-        Software Test Lead and Tester
-      </strong>
-    </h3>
-  </td>
-  <td align="center">
-    <h3>
-      <strong>
-        Software Tester
-      </strong>
-    </h3>
-  </td>
-</tr>
-
-</table>
+## Currently working as Software Test Lead
 
 ## Tools
 I mostly work with manual testing, but on the occasional need, I use these to help me out!
